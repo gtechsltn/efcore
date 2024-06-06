@@ -1,5 +1,9 @@
 # EF Core
 
+https://github.com/gtechsltn/all
+
+https://github.com/gtechsltn/efcore
+
 Setup Entity Framework Core in Console Application, Code First
 
 https://medium.com/@robrich22/setup-entity-framework-core-in-console-application-code-first-ad130b53a539
